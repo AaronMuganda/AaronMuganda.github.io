@@ -1,0 +1,329 @@
+.nousjoindre-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.nousjoindre-nousjoindre {
+  gap: 10px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.nousjoindre-image1 {
+  top: 122px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.nousjoindre-frame1 {
+  top: 122px;
+  left: 57px;
+  width: 1318px;
+  height: 756px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.nousjoindre-text {
+  color: rgba(0, 0, 0, 1);
+  width: 1318px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-image3 {
+  top: 345px;
+  left: 637px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.nousjoindre-image2 {
+  top: 350px;
+  left: 549px;
+  width: 55px;
+  height: 54px;
+  position: absolute;
+}
+.nousjoindre-image4 {
+  top: 350px;
+  left: 735px;
+  width: 55px;
+  height: 52px;
+  position: absolute;
+}
+.nousjoindre-group3 {
+  top: 878px;
+  left: 0px;
+  width: 100%;
+  height: 146px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 157, 111, 1);
+}
+.nousjoindre-text25 {
+  top: 61px;
+  left: 1359px;
+  color: rgba(0, 0, 0, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text27 {
+  top: 61px;
+  left: 1007px;
+  color: rgba(0, 0, 0, 1);
+  width: 252px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text29 {
+  top: 61px;
+  left: 1284px;
+  color: rgba(0, 0, 0, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text31 {
+  top: 48px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 694px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-accountcircle {
+  top: 26px;
+  left: 1344px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.nousjoindre-group1 {
+  top: 817px;
+  left: 578px;
+  width: 299px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(160, 145, 129, 1);
+}
+.nousjoindre-text33 {
+  top: 14px;
+  left: 46px;
+  color: rgba(255, 255, 255, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-group7 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 122px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 157, 111, 1);
+}
+.nousjoindre-text35 {
+  top: 50px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text37 {
+  top: 49px;
+  left: 898px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text39 {
+  top: 50px;
+  left: 633px;
+  color: rgba(0, 0, 0, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text41 {
+  top: 50px;
+  left: 515px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text43 {
+  top: 50px;
+  left: 427px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-vector {
+  top: 33px;
+  left: 1342px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.nousjoindre-text45 {
+  top: 50px;
+  left: 1189px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text47 {
+  top: 50px;
+  left: 761px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nousjoindre-text49 {
+  top: 9px;
+  left: 59px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

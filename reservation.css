@@ -1,0 +1,435 @@
+.reservation-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.reservation-reservation {
+  gap: 10px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.reservation-image1 {
+  top: 122px;
+  left: 0px;
+  width: 1440px;
+  height: 756px;
+  position: absolute;
+}
+.reservation-frame1 {
+  top: 122px;
+  left: 61px;
+  width: 1318px;
+  height: 756px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.reservation-text {
+  top: 160px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text02 {
+  top: 354px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text04 {
+  top: 450px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text06 {
+  top: 539px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text08 {
+  top: 257px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text10 {
+  top: 36px;
+  left: 572px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-rectangle13 {
+  top: 165px;
+  left: 587px;
+  width: 359px;
+  height: 53px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.reservation-rectangle14 {
+  top: 262px;
+  left: 587px;
+  width: 359px;
+  height: 53px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.reservation-rectangle15 {
+  top: 351px;
+  left: 587px;
+  width: 359px;
+  height: 53px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.reservation-rectangle16 {
+  top: 447px;
+  left: 587px;
+  width: 359px;
+  height: 53px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.reservation-rectangle17 {
+  top: 537px;
+  left: 587px;
+  width: 359px;
+  height: 53px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.reservation-group3 {
+  top: 878px;
+  left: 0px;
+  width: 1440px;
+  height: 146px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 157, 111, 1);
+}
+.reservation-text12 {
+  top: 61px;
+  left: 1359px;
+  color: rgba(0, 0, 0, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text14 {
+  top: 61px;
+  left: 1007px;
+  color: rgba(0, 0, 0, 1);
+  width: 252px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text16 {
+  top: 61px;
+  left: 1284px;
+  color: rgba(0, 0, 0, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text18 {
+  top: 48px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 694px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-accountcircle {
+  top: 26px;
+  left: 1344px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.reservation-group1 {
+  top: 817px;
+  left: 578px;
+  width: 299px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(160, 145, 129, 1);
+}
+.reservation-text20 {
+  top: 14px;
+  left: 46px;
+  color: rgba(255, 255, 255, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-group7 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 122px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 157, 111, 1);
+}
+.reservation-text22 {
+  top: 50px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text24 {
+  top: 49px;
+  left: 898px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text26 {
+  top: 50px;
+  left: 633px;
+  color: rgba(0, 0, 0, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text28 {
+  top: 50px;
+  left: 515px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text30 {
+  top: 50px;
+  left: 427px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-vector {
+  top: 33px;
+  left: 1342px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.reservation-text32 {
+  top: 50px;
+  left: 1189px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text34 {
+  top: 50px;
+  left: 761px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.reservation-text36 {
+  top: 9px;
+  left: 59px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Courgette;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
